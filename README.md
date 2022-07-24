@@ -15,8 +15,8 @@ truly standing by our tagline of the only Regional Shopping Portal in India.
 3. Customer
 
 ### 
-Admin will be hadling the whole responsibilities of the site such as aproving vendor’s registration ,the
-products added by the vender will be approved by admin,etc..
+Admin will be handling the whole responsibilities of the site such as approving vendor’s registration ,the
+products added by the vendor will be approved by admin,etc..
 ### 
 Venders can register into the site with a set of details and he/she can add products of different
 caregories for sales.
