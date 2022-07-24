@@ -18,10 +18,10 @@ truly standing by our tagline of the only Regional Shopping Portal in India.
 Admin will be handling the whole responsibilities of the site such as approving vendor’s registration ,the
 products added by the vendor will be approved by admin,etc..
 ### 
-Venders can register into the site with a set of details and he/she can add products of different
-caregories for sales.
+Vendors can register into the site with a set of details and he/she can add products of different
+categories for sales.
 ### 
-Coustomers can find the best products with affordable prices, and ship them to you regardless of where
+Customers can find the best products with affordable prices, and ship them to you regardless of where
 you are located.
 
 ### How To Use
